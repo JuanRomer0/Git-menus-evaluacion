@@ -13,3 +13,12 @@ La gastronomía mexicana es el conjunto de platillos y técnicas culinarias de M
 - Pescado a la Veracruzana.
 - Tlayudas.
 
+## Bebidas Recomendadas
+- Aguas frescas.
+- Atole.
+- Café
+- Cerveza.
+- Pulque.
+- Mezcales y otros destilados.
+- Tepache.
+- Vino.
