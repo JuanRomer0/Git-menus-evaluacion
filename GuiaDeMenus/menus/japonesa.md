@@ -12,3 +12,12 @@ La gastronomía japonesa destaca por su sencillez y elegancia en cada plato. La 
 - sashimi
 - gyozas
 - yakisoba
+
+## bebidas recomendadas
+- te
+- sake
+- amazake
+- mugicha
+- umeshu
+- shochu
+
