@@ -21,3 +21,9 @@ La gastronomía japonesa destaca por su sencillez y elegancia en cada plato. La 
 - umeshu
 - shochu
 
+## consejos
+- No cortes ni muerdas la pieza de sushi.
+- No pinches el sushi con los palillos.
+- La soja: solo para el pescado y en su justa medida.
+- No combines el jengibre con el sushi.
+- "No pongas el wasabi en la salsa de soja"
