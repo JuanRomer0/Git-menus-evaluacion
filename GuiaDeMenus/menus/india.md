@@ -12,3 +12,7 @@ La comida india se caracteriza por ser colorida, de sabores y aromas variados. E
 - Dhal o dal. 
 - Aloo Dum.
 
+## Bebidas Recomendadas
+- ninbu pani
+- el fenny
+- massala chai
